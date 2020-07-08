@@ -13,8 +13,8 @@
 env: python3, anaconda, windows10
 
 ## Requirements
-The code uses matplotlib to create the orbital motion animation. The package ffmpeg is required to run the animation. It can be installed using the Anaconda terminal:
+본 코드에서 궤도 모션의 애니메이션을 실행 시키기 위해서는 사전에 ffmpeg package가 설치되어 있어야 한다. 이는 anaconda terminal에서 다음의 코드로 설치할 수 있다.
 ```python
 conda install -c menpo ffmpeg
 ```
-The video is embedded in the Jupyter notebook using html5. The vidoe can also exported as mp4. 
+이 비디오는 주피터 노트북에서 html5를 사용하며 이는 mp4로 저장이 가능하다.
