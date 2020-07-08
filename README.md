@@ -10,4 +10,11 @@
 #### 일반해가 존재하지 않음에도 불구하고 우리는 답을 찾을 것이다. 언제나 그랬듯이.
 
 
-env: python 3.x
+env: python3, anaconda, windows10
+
+## Requirements
+The code uses matplotlib to create the orbital motion animation. The package ffmpeg is required to run the animation. It can be installed using the Anaconda terminal:
+```python
+conda install -c menpo ffmpeg
+```
+The video is embedded in the Jupyter notebook using html5. The vidoe can also exported as mp4. 
