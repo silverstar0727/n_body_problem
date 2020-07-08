@@ -1,5 +1,10 @@
 # many_body_problem
 
+<p float="left">
+<a href = "https://github.com/zaman13/Three-Body-Problem-Gravitational-System/tree/master/Python%20script"> <img src="https://img.shields.io/badge/Language-Python-blue" alt="alt text"> </a>
+<a href = "https://github.com/zaman13/Three-Body-Problem-Gravitational-System/tree/master/Python%20notebook%20files"> <img src="https://img.shields.io/badge/Language-Jupyter notebook-blue" alt="alt text"> </a>  
+</p>
+
 우주에 떠 있는 행성은 무슨 원리에 의해 움직이는가? 일찍이 뉴턴은 그 힘을 만유인력으로 밝혔으나, 3가지 물체에 대한 일반해를 유도할 수 없음을 푸앵카레가 증명하였다. 이를 3체문제라고 명명하고 수많은 특수해들을 찾기 위한 과학자들의 노력이 시작되었다.
 
 일반해가 없음은 자명하나, 스윙바이 현상 등 우리가 천체의 위치를 정확히 예측하는 것은 꽤나 중요한 주제일 것이다. 그렇다면, 우리는 일반해가 없는 문제에 대해 어떠한 솔루션을 제시할 것인가. 과연 우리가 포기해야 맞는 것인가.
@@ -9,8 +14,6 @@
 
 #### 일반해가 존재하지 않음에도 불구하고 우리는 답을 찾을 것이다. 언제나 그랬듯이.
 
-
-env: python3, anaconda, windows10
 
 ## Requirements
 본 코드에서 궤도 모션의 애니메이션을 실행 시키기 위해서는 사전에 ffmpeg package가 설치되어 있어야 한다. 이는 anaconda terminal에서 다음의 코드로 설치할 수 있다.
