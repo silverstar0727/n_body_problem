@@ -1,9 +1,9 @@
 # many_body_problem
 
 <p float="left">
-<a> <img src="https://img.shields.io/badge/Language-Python-blue" alt="alt text"> </a>
+<a> <img src="https://img.shields.io/badge/Language-Python3-blue" alt="alt text"> </a>
 <a> <img src="https://img.shields.io/badge/Language-Jupyter notebook-blue" alt="alt text"> </a>  
-<a> <img src="https://img.shields.io/badge/Language-Anaconda-blue" alt="alt text"> </a>
+<a> <img src="https://img.shields.io/badge/Language-Anaconda3-blue" alt="alt text"> </a>
 </p>
 
 우주에 떠 있는 행성은 무슨 원리에 의해 움직이는가? 일찍이 뉴턴은 그 힘을 만유인력으로 밝혔으나, 3가지 물체에 대한 일반해를 유도할 수 없음을 푸앵카레가 증명하였다. 이를 3체문제라고 명명하고 수많은 특수해들을 찾기 위한 과학자들의 노력이 시작되었다.
