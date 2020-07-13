@@ -28,5 +28,6 @@ conda install -c menpo ffmpeg
 종종 .ipynb파일이 열리지 않는 경우가 있는데, 이는 깃허브 뷰어의 문제인 것으로 보여진다.
 
 다음의 링크에서 보고자 하는 .ipynb 파일의 주소를 복사하여 붙여 넣으면 볼 수 있다.
+>https://nbviewer.jupyter.org/
 
 github의 불친절... ㅠㅠ
