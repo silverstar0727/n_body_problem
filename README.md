@@ -21,7 +21,7 @@
 ```python
 conda install -c menpo ffmpeg
 ```
-이 비디오는 주피터 노트북에서 html5를 사용하며 이는 mp4로 저장이 가능하다.
+이 비디오는 주피터 노트북에서 html5를 사용가능케 하며 이는 mp4로 저장이 가능하다.
 
 
 ## viewer error
