@@ -31,3 +31,9 @@ conda install -c menpo ffmpeg
 >https://nbviewer.jupyter.org/
 
 github의 불친절... ㅠㅠ
+
+
+## mathematical theory
+본 프로젝트는 solution을 근사적으로 도출하는 프로젝트인데, 그 수학적 이론은 numerical anaylsis에 기초한다.
+
+Euler method등 다양한 방법이 존재하다. 여기서는 RK4를 주로 사용한다.
