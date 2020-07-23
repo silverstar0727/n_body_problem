@@ -1,4 +1,4 @@
-# many_body_problem
+# N_body_problem
 
 <p float="left">
 <a> <img src="https://img.shields.io/badge/Language-Python3-blue" alt="alt text"> </a>
