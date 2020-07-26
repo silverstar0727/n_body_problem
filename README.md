@@ -16,6 +16,11 @@
 ##### 일반해가 존재하지 않음에도 불구하고 우리는 답을 찾을 것이다. 언제나 그랬듯이.
 
 
+## n-body sim 결과
+![KakaoTalk_20200726_220712734](https://user-images.githubusercontent.com/49096513/88479761-7562c600-cf8c-11ea-9546-14b2a3d3fcf1.png)
+
+
+
 ## Requirements
 본 코드에서 궤도 모션의 애니메이션을 실행 시키기 위해서는 사전에 ffmpeg package가 설치되어 있어야 한다. 이는 anaconda terminal에서 다음의 코드로 설치할 수 있다.
 ```python
