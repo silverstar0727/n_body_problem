@@ -16,7 +16,7 @@
 ##### 일반해가 존재하지 않음에도 불구하고 우리는 답을 찾을 것이다. 언제나 그랬듯이.
 
 
-## n-body sim 결과
+## n-body simulation 결과
 ![KakaoTalk_20200726_220712734](https://user-images.githubusercontent.com/49096513/88479761-7562c600-cf8c-11ea-9546-14b2a3d3fcf1.png)
 
 
@@ -41,4 +41,4 @@ github의 불친절... ㅠㅠ
 ## mathematical theory
 본 프로젝트는 solution을 근사적으로 도출하는 프로젝트인데, 그 수학적 이론은 numerical anaylsis에 기초한다.
 
-Euler method등 다양한 방법이 존재하다. 여기서는 RK4를 주로 사용한다.
+Euler method등 다양한 방법이 존재하다. 삼체문제는 RK4를, 다체문제는 euler method 주로 사용한다.
