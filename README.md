@@ -15,7 +15,9 @@
 
 ##### 일반해가 존재하지 않음에도 불구하고 우리는 답을 찾을 것이다. 언제나 그랬듯이.
 
-
+## 3body simulation 결과
+3body_main.ipynb
+![sample_output_1](https://user-images.githubusercontent.com/49096513/88818032-32f1f100-d1f9-11ea-993e-03b72b5c9976.gif)
 ## n-body simulation 결과
 n-body modeling.py
 ![KakaoTalk_20200726_220712734](https://user-images.githubusercontent.com/49096513/88479761-7562c600-cf8c-11ea-9546-14b2a3d3fcf1.png)
