@@ -17,6 +17,8 @@
 
 ## 3body simulation 결과
 3body_main.ipynb
+
+https://www.youtube.com/watch?v=JqrZXK-2J84
 ![sample_output_1](https://user-images.githubusercontent.com/49096513/88818032-32f1f100-d1f9-11ea-993e-03b72b5c9976.gif)
 ## n-body simulation 결과
 n-body modeling.py
