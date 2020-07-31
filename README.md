@@ -49,7 +49,7 @@ github의 불친절... ㅠㅠ
 ## mathematical theory
 본 프로젝트는 solution을 근사적으로 도출하는 프로젝트인데, 그 수학적 이론은 numerical anaylsis에 기초한다.
 
-Euler method등 다양한 방법이 존재하다. 삼체문제는 RK4를, 다체문제는 euler method 주로 사용한다.
+Euler method등 다양한 방법이 존재하나 삼체문제는 RK4를, 다체문제는 euler method 주로 사용한다.
 
 ## Singularity
 문제가 발생했던 지점은 r = 0일 때이다. zero division error가 발생하는 것은 아니지만, r이 0에 한없이 가까워 질 때 계산량은 무한히 증가하게된다.
