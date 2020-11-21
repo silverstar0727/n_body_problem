@@ -2,7 +2,6 @@
 
 
 <p float="left">
-<a> <img src="https://img.shields.io/badge/Language-Python3-blue" alt="alt text"> </a>
 </p>
 
 #### 본 프로젝트는 연세대학교 ACE 사업단으로부터 지원금을 받아 진행되었습니다.
