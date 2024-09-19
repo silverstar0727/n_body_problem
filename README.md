@@ -13,37 +13,12 @@
 
 현재 과학계는 이를 컴퓨팅을 이용한 알고리즘을 통해 초기조건이 주어졌을 경우, 특수해를 구하기 위해 노력하고 있으며 본 프로젝트 또한 이를 시도하고자 한다. 
 
-
-
-## 3body simulation 결과
-3body_main.ipynb
-
-https://www.youtube.com/watch?v=dthhIN79EJE&t=2s
-
-![sample_output_1](https://user-images.githubusercontent.com/49096513/88818032-32f1f100-d1f9-11ea-993e-03b72b5c9976.gif)
-## n-body simulation 결과
-n-body modeling.py
-
-https://www.youtube.com/watch?v=JqrZXK-2J84
-![KakaoTalk_20200726_220712734](https://user-images.githubusercontent.com/49096513/88479761-7562c600-cf8c-11ea-9546-14b2a3d3fcf1.png)
-
-
-
 ## Requirements
 본 코드에서 궤도 모션의 애니메이션을 실행 시키기 위해서는 사전에 ffmpeg package가 설치되어 있어야 한다. 이는 anaconda terminal에서 다음의 코드로 설치할 수 있다.
 ```python
 conda install -c menpo ffmpeg
 ```
 이 비디오는 주피터 노트북에서 html5를 사용가능케 하며 이는 mp4로 저장이 가능하다.
-
-
-## Viewer Error
-종종 .ipynb파일이 열리지 않는 경우가 있는데, 이는 깃허브 뷰어의 문제인 것으로 보여진다.
-
-다음의 링크에서 보고자 하는 .ipynb 파일의 주소를 복사하여 붙여 넣으면 볼 수 있다.
->https://nbviewer.jupyter.org/
-
-github의 불친절... ㅠㅠ
 
 
 ## Mathematical Theory
